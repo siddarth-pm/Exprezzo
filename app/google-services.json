@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "521376636027",
+    "firebase_url": "https://launchhacks-93eef.firebaseio.com",
+    "project_id": "launchhacks-93eef",
+    "storage_bucket": "launchhacks-93eef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521376636027:android:95c532fbf20f35aa",
+        "android_client_info": {
+          "package_name": "com.example.launchhackslol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521376636027-4un9895k1vnd6bndsvq5do2gr8rvha12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOv31unSoL9fYMwHLay4lfSKdNv20_fnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521376636027-4un9895k1vnd6bndsvq5do2gr8rvha12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
